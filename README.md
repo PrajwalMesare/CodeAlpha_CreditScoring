@@ -1,4 +1,4 @@
-# 🏦 CodeAlpha_CreditScoring
+# 🏦 Credit Scoring Model
 
 <div align="center">
 
@@ -8,9 +8,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 
-**CodeAlpha ML Internship — Task 1**
+**Personal ML Project**
 
-**Intern:** Prajwal Mesare | TGPCET Nagpur | B.Tech CSE (Data Science) 2027
+**Developer:** Prajwal Mesare | TGPCET Nagpur | B.Tech CSE (Data Science) 2027
 
 [![GitHub](https://img.shields.io/badge/GitHub-PrajwalMesare-181717?logo=github)](https://github.com/PrajwalMesare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/prajwal-mesare-700678263)
@@ -161,5 +161,4 @@ print(result)
 
 ## 📜 About
 
-This project is part of the **CodeAlpha Machine Learning Internship** program.  
-For internship queries: [services@codealpha.tech](mailto:services@codealpha.tech) | [www.codealpha.tech](https://www.codealpha.tech)
+Built as a personal ML project for portfolio and learning purposes.  

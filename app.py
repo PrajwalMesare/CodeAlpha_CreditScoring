@@ -1,6 +1,6 @@
 """
 app.py — Task 1: Credit Scoring Model
-CodeAlpha ML Internship
+Personal ML Project
 Author: Prajwal Mesare | github.com/PrajwalMesare
 """
 
@@ -110,8 +110,8 @@ def predict(inputs, model, scaler, imputer, feature_names):
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## 🏦 Credit Scoring")
-    st.markdown("**CodeAlpha ML Internship**")
-    st.markdown("**Intern:** Prajwal Mesare")
+    st.markdown("**Personal ML Project**")
+    st.markdown("**Developer:** Prajwal Mesare")
     st.markdown("**Model:** XGBoost")
     st.markdown("**ROC-AUC:** 0.7538")
     st.markdown("---")
@@ -127,7 +127,7 @@ with st.sidebar:
 st.markdown("""
 <div class="header">
     <h1>🏦 Credit Scoring Model</h1>
-    <p>Kaggle — Give Me Some Credit | Predict Borrower Default Risk | CodeAlpha ML Internship</p>
+    <p>Kaggle — Give Me Some Credit | Predict Borrower Default Risk | Personal ML Project</p>
 </div>
 """, unsafe_allow_html=True)
 
