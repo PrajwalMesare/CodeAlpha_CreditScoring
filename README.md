@@ -40,7 +40,7 @@ Predict whether a borrower will experience **serious delinquency (90+ days past 
 ## 🗂️ Project Structure
 
 ```
-CodeAlpha_CreditScoring/
+Credit-Scoring-Model/
 │
 ├── credit_scoring_model.ipynb   ← Full ML pipeline (EDA → Train → Evaluate)
 ├── model.py                     ← Standalone inference module

@@ -1,6 +1,6 @@
 """
 credit_scoring — model.py
-CodeAlpha Internship Task 1
+Personal ML Project — Credit Scoring
 Author : Prajwal Mesare
 GitHub : github.com/PrajwalMesare
 
